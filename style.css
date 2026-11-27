@@ -1,0 +1,41 @@
+body {
+    background-color: #3B0008;
+    color: white;
+    margin: 30px;
+    font-family: "Courier New", monospace;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    font-size: 16px;
+}
+
+
+a {
+    display: inline-block;
+    background-color: #800020;
+    color: white;
+    padding: 12px 20px;
+    margin: 5px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+p {
+    background-color: #800020;
+    color: white;
+    padding: 15px;
+    margin: 15px 5px;
+    border-radius: 15px;
+    font-weight: bold;
+}
+
